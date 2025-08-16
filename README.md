@@ -1,7 +1,7 @@
 # Dictionary App
 
 A modern, responsive dictionary web app built with React, Tailwind CSS, and Material UI.  
-It supports multiple languages, light/dark mode, and provides word definitions, examples, synonyms, and audio pronunciation.
+It supports light/dark mode, and provides word definitions, examples, synonyms, antonyms and audio pronunciation.
 
 ## Features
 
@@ -35,7 +35,7 @@ It supports multiple languages, light/dark mode, and provides word definitions, 
 
 ## Usage
 
-- Type a word in the search box and select a language.
+- Type a word in the search box.
 - For English words, click the audio icon to hear pronunciation.
 - Toggle light/dark mode using the switch in the top-right corner.
 
