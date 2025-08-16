@@ -5,7 +5,7 @@ It supports light/dark mode, and provides word definitions, examples, synonyms, 
 
 ## Features
 
-- 🔍 **Search** for word definitions in multiple languages
+- 🔍 **Search** for word definitions in English
 - 🎧 **Audio pronunciation** for English words
 - 🌙 **Light/Dark mode** toggle with smooth transitions
 - 🖥️ **Responsive design** for all devices
